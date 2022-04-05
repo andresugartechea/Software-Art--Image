@@ -3,7 +3,7 @@
 
 ### Class VII-VIII | March 28th: _"MAKE a Node-Express app that incorporates Socket.io. Try to incorporate the following: At least one ‘emit’ event on the server-side and one ‘emit’ event on the client-side The ability to open 2 browser tabs and share data in real-time between the two."_
 
-<img src="test1.png" width ="400" /> 
+<img src="test1.png" width ="500" /> 
 
 In the exercises that we did in class, we learned how to make a [drawing app](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_8_Sockets) and a [simple chat room](https://github.com/MathuraMG/ConnectionsLabSpring22/tree/master/Week_9_Sockets). Both exercises helped me discover how to use [socket.io](https://socket.io/docs/v4/) to build my first connected application. My goal for this assignment was to combine both projects and create something where the user gives text input and draws on a P5.js canvas.
 
