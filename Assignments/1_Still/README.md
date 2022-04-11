@@ -30,7 +30,7 @@ This artistic process mimics the coded language of queer identity that presents 
 
 The project moves to OpenFrameworks, where the sketch is as an image to get the coordinates of each shape. This step gets a slightly different result since Bézier curves were used instead of arcs to give more homogeneity to the piece. 
 
-<img src="foto6.png" width ="500" /> 
+<img src="foto6.png" width ="300" /> 
 
 Moreover, the usage of this software becomes meaningful when the first animation is created. Based on [Dan Buzzo's](https://www.youtube.com/watch?v=uVMyp3HzV_E) tutorial, the program draws two balls that follow the coordinates of the shapes. This symbolizes the pair of lovers that give the name to this piece. 
 
@@ -42,7 +42,7 @@ The simplicity of the colors is meant to guide the audience while looking at the
 
 As the author of this artwork, I’m almost satisfied with “A Pair of Lovers”. I consider that the concept and its implementation are very solid. However, I think I still need to learn more about what OpenFrameworks has to offer to exploit this medium in the best way possible. It’s a concept that I want to elaborate on in the future to give the audience an immersive experience with meaningful interactivity.
 
-<img src="APOL_000.png" width ="500" /> 
-<img src="APOL_004.png" width ="500" /> 
-<img src="APOL_008.png" width ="500" /> 
-<img src="APOL_010.png" width ="500" /> 
+<img src="APOL_000.png" width ="450" /> 
+<img src="APOL_004.png" width ="450" /> 
+<img src="APOL_008.png" width ="450" /> 
+<img src="APOL_010.png" width ="450" /> 
