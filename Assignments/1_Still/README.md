@@ -42,7 +42,5 @@ The simplicity of the colors is meant to guide the audience while looking at the
 
 As the author of this artwork, I’m almost satisfied with “A Pair of Lovers”. I consider that the concept and its implementation are very solid. However, I think I still need to learn more about what OpenFrameworks has to offer to exploit this medium in the best way possible. It’s a concept that I want to elaborate on in the future to give the audience an immersive experience with meaningful interactivity.
 
-<img src="APOL_000.png" width ="450" /> 
-<img src="APOL_004.png" width ="450" /> 
-<img src="APOL_008.png" width ="450" /> 
-<img src="APOL_010.png" width ="450" /> 
+<img src="APOL_000.png" width ="450" /> <img src="APOL_004.png" width ="450" /> 
+<img src="APOL_008.png" width ="450" /> <img src="APOL_010.png" width ="450" /> 
