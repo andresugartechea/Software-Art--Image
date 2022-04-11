@@ -30,13 +30,11 @@ This artistic process mimics the coded language of queer identity that presents 
 
 The project moves to OpenFrameworks, where the sketch is as an image to get the coordinates of each shape. This step gets a slightly different result since Bézier curves were used instead of arcs to give more homogeneity to the piece. 
 
-<img src="foto6.jpg" width ="500" /> 
+<img src="foto6.png" width ="500" /> 
 
 Moreover, the usage of this software becomes meaningful when the first animation is created. Based on [Dan Buzzo's](https://www.youtube.com/watch?v=uVMyp3HzV_E) tutorial, the program draws two balls that follow the coordinates of the shapes. This symbolizes the pair of lovers that give the name to this piece. 
 
-<img src="foto7.png" width ="300" /> 
-<img src="foto8.png" width ="300" /> 
-<img src="foto9.png" width ="300" /> 
+<img src="foto7.png" width ="300" /> <img src="foto8.png" width ="300" /> <img src="foto9.png" width ="300" /> 
 
 Using OpenFrameworks to add interactivity was discarded since it didn’t add anything to the concept of the project. However, the user can press the spacebar to take screenshots of the animation, but this doesn’t have any symbology behind it.  
  
