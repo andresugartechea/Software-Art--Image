@@ -20,7 +20,7 @@ Then, the sketch is replicated using only geometrical shapes and lines.
 
 <img src="foto4.jpg" width ="500" /> 
 
-The sketch is finally finished by keeping only a few shapes and lines that allow the audience’s imagination read the artwork. The mouth and skull are identified with lines and arcs, while the circles give information about their eyes and the limits of their bodies. This was also an artistic choice to give a good composition to the piece.
+The sketch is finally finished by keeping only a few shapes and lines that allow the audience’s imagination read the artwork. The mouth and skull are identified with lines and arcs, while the circles give information about their eyes and the limits of their bodies. This is also an artistic choice to give a good composition to the piece.
 
 <img src="foto5.jpg" width ="500" /> 
 
@@ -38,9 +38,9 @@ Moreover, the usage of this software becomes meaningful when the first animation
 
 Using OpenFrameworks to add interactivity was discarded since it didn’t add anything to the concept of the project. However, the user can press the spacebar to take screenshots of the animation, but this doesn’t have any symbology behind it.  
  
-The simplicity of the colors is meant to guide the audience while looking at the piece. The absence of color in the background leads the spectator to focus on the black shapes, while the red circles give a good aesthetic effect and indicate relevance. This color choice is very simplistic, but it seeks to represent the first stages in the sketching process of a portrait.
+The simplicity of the colors is meant to guide the audience while looking at the piece. The absence of color in the background leads the spectator to focus on the black shapes, while the red circles give a good aesthetic effect and indicate relevance. This color choice is very simple, but it seeks to represent the first stages in the sketching process of a portrait.
 
-As the author of this artwork, I’m almost satisfied with “A Pair of Lovers”. I consider that the concept and its implementation are very solid. However, I think I still need to learn more about what OpenFrameworks has to offer to exploit this medium in the best way possible. It’s a concept that I want to elaborate on in the future to give the audience an immersive experience with meaningful interactivity.
+As the author of this artwork, I’m almost satisfied with _A Pair of Lovers_. I consider that the concept and its implementation are very solid. However, I think I still need to learn more about what OpenFrameworks has to offer to exploit this medium in the best way possible. It’s a concept that I want to elaborate on in the future to give the audience an immersive experience with meaningful interactivity.
 
 <img src="APOL_000.png" width ="450" /> <img src="APOL_004.png" width ="450" /> 
 <img src="APOL_008.png" width ="450" /> <img src="APOL_010.png" width ="450" /> 
