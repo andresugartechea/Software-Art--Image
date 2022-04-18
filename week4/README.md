@@ -4,4 +4,4 @@
 
 <img src="test.png" width ="500" />  <img src="test1.png" width ="500" />
 
-(_Poetic computation_ by Zach Lieberman)https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s
+[_Poetic computation_ by Zach Lieberman](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=82s)
