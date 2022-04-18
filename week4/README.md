@@ -2,7 +2,7 @@
 
 ### Sketch 2 - Animation | April 18th: _"Code an openFrameworks app (sketch) that makes a cyclical animation"_
 
-<img src="test.png" heigth ="500" />  <img src="test1.png" heigth ="500" />
+<img src="test.png" heigth ="300" />  <img src="test1.png" heigth ="300" />
 
 My goal for this assignment was to combine different tools that we’ve learned so far in class. My code [draws generative lines](https://www.youtube.com/watch?v=S4KMORhoFMk) whose thickness, color, and the area where they are drawn are modified through the [GUI](https://www.youtube.com/watch?v=OzTtd79vfQw&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7&index=18). 
 
