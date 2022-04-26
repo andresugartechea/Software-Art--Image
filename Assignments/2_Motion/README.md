@@ -30,3 +30,4 @@ Since C++ is a new programming language to me, I searched for tutorials to under
 My main inspiration was to create images similar to a mandala, respecting symmetry and drawing semi-complex patterns. The final visualizer is the result of my artistic choices after testing different outputs. I’m satisfied with this project, but I would like to keep experimenting with this to make it more interesting and strengthen the concept. 
 Some future steps that I would like to implement are adding video and images to the visualizer, so it’s not random and can be read as a story. 
 
+[Here, you can find a video of how my program works](https://youtu.be/6wB0YL3ObKM)
