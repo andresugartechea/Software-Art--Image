@@ -22,6 +22,8 @@ The concept of this piece is inspired by Arca’s career as a DJ. This artist ha
 With _Century_,  I try to visually mimic this method to study afterward what I can get from this experience. After finishing this project, I realized that this process is a reflection of the subconscious. With the feedback from my friends and colleagues, I understood that my artistic expression tried to equalize the song’s mysterious tone. The blue of the first animation made me think of the sound of water droplets in the beginning, and the red emerges when the sounds start turning disturbing at the end.
 My own concept with this piece is to represent the randomness of emotions in situations where there are no behavioral responses dictated by nature, such as the idea of gender constructed by society. I want to develop this concept furtherly since I’m not sure if it's accessible from a purely visual standpoint.
 
+<img src="arca.jfif" height ="320" /> 
+
 
 ## Write-up |
 
