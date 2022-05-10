@@ -5,7 +5,7 @@
 
 <img src="four.png" height ="320" /> <img src="five.png" height ="320" /> 
 
-<img src="six.png" height ="250" /> <img src="seven.png" height ="250" /> <img src="eight.png" height ="250" /> <img src="nine.png" height ="250" /> 
+<img src="six.png" height ="240" /> <img src="seven.png" height ="240" /> <img src="eight.png" height ="240" /> <img src="nine.png" height ="240" /> 
 
 <img src="ten.png" height ="320" /> <img src="eleven.png" height ="320" /> <img src="twelve.png" height ="320" /> 
 
