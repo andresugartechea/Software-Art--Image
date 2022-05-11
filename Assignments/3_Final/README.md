@@ -2,18 +2,13 @@
 
 Created by Andres Ugartechea Palma (au2045) & Chi-Ting Tsai (ct2653)
 
-## Story | ?????
+_iPhock 2_ is an artwork developed on OpenFrameworks by Andres Ugartechea Palma and Chi-Ting Tsai. The purpose of this piece is to portray the process of sexual self-discovery in modern times through five short interactive scenes.
 
-## Concept|
+## Story and Concept|
 
-The application is intended to bring to the surface of one's exploration of self, especially the discovery of sexualilty as it is commonly tied with stigma and various forms of shame. Humans are sexual beings. There are certain aspects of sexuality that is present in the media that we are now enabled by the internet to access and explore by ourselves. It is natural for adolescents to become curious and inquire more. However, explicit dicussion of sex or anything related it is considered a tabboo, let alone the complication of homosexuality or anything non-heteronormative. We would like to highlight this necessity of open information and conversation about sex and its subjectivity, complexity, and importance to our identity. The app contains shapes and images that construct the interface of a daily electronic device such as a smartphone or a laptop, evoking a sense of relatability to the audience yet distancing them behind the screen throughout the narrative. 
+The application is intended to bring to the surface of one's exploration of self, especially the discovery of sexuality as it is commonly tied with stigma and various forms of shame. Humans are sexual beings. There are certain aspects of sexuality that is present in the media that we are now enabled by the internet to access and explore by ourselves. It is natural for adolescents to become curious and inquire more. However, explicit dicussion of sex or anything related it is considered a tabboo, let alone the complication of homosexuality or anything non-heteronormative. We would like to highlight this necessity of open information and conversation about sex and its subjectivity, complexity, and importance to our identity. The app contains shapes and images that construct the interface of a daily electronic device such as a smartphone or a laptop, evoking a sense of relatability to the audience yet distancing them behind the screen throughout the narrative. 
 
-
-What to include down below:
-shapes
-colors
-rules
-
+The story of this project is not intended to be linear, but it concludes with the user getting phone called by their father. This is something that seeks to represent that even though sexual discovery is a normal and necessary process in adolescence, it’s a taboo topic that society doesn’t dare to talk about that easily.
 
 ### Scene 1 - Lock Screen 
 
